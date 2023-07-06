@@ -1,0 +1,98 @@
+
+  body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #9a9191;
+  }
+  
+  header #headerTitle {
+    font-size: 24px;
+  }
+  
+  .social-links {
+    display: flex;
+    gap: 10px;
+  }
+  
+  .social-link {
+    color: #710b67;
+    text-decoration: none;
+  }
+  
+  .image-cv-container {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  #myImage {
+    max-width: 200px;
+    height: auto;
+    margin-right: 20px;
+    padding: 50px;
+  }
+  
+  #cv {
+    padding: 20px;
+  }
+  
+  h2 {
+    font-size: 24px;
+  }
+  
+  .cv-links {
+    display: flex;
+    gap: 10px;
+  }
+  
+  .cv-link {
+    color: #3043d5;
+    text-decoration: none;
+  }
+  
+
+  
+  
+  section {
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 4px;
+    margin-bottom: 20px;
+  }
+  
+  h2 {
+    font-size: 24px;
+  }
+  
+  .project {
+    margin-bottom: 20px;
+  }
+  
+  .project h3 {
+    margin-bottom: 10px;
+  }
+  
+  .project a {
+    margin-right: 10px;
+    color: #3043d5;
+    text-decoration: none;
+  }
+  
+  footer {
+    background-color: #f0f0f0;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  #languageSelector {
+    margin: 20px;
+  }
+  
